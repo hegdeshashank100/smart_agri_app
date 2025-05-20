@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "491371167472",
+    "project_id": "mceresourcehub",
+    "storage_bucket": "mceresourcehub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491371167472:android:e7c796900315c4094ccc35",
+        "android_client_info": {
+          "package_name": "com.example.smartagri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJyZH78LRzAK-AAWftKnQSzc5umwKDx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491371167472:android:a300b5a4cbb9558b4ccc35",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJyZH78LRzAK-AAWftKnQSzc5umwKDx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
