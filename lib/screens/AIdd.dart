@@ -88,7 +88,7 @@ class _AIHomeState extends State<AIHome> {
       }
 
       final base64Image = base64Encode(bytes);
-      final apiKey = 'AIzaSyCtM8nDKzUuMMscdgGG-G2mpHl6jbDawmg';
+      final apiKey = '';
       if (apiKey.isEmpty) {
         throw Exception('API key is missing. Please configure GEMINI_API_KEY.');
       }
